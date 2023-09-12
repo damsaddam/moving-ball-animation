@@ -1,4 +1,4 @@
-# The Animation of 3 Balls Controlling The Speed of Descent
+# A Moving Ball Animation
 
 If you need the animation for the loader etc. Maybe this is a solution for you. This animation was made using HTML and CSS.
     
